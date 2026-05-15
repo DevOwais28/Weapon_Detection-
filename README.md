@@ -1,4 +1,4 @@
-a````markdown
+
 # 🔥 Real-Time Weapon Detection & Armed Person Identification (CCP - Computer Vision)
 
 ## 🚀 Project Overview
